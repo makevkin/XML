@@ -1,2 +1,16 @@
-111
-
+<body_bug>
+  <ID>1</ID>
+  <Created_by>Yuriy Makevkin</Created_by>
+  <Severity>Major</Severity>
+  <Priority>Midle</Priority>
+  <Environment>Windows_10 Chrom_112</Environment>
+  <Title>Link "About" on thr main page is not clicability</Title>
+  <Steps>
+    <1>Navigate to main page</1>
+    <2>Select block "About"</2>
+    <3>Click to Link</3>
+  </Steps>
+  <Expected_result>The page open "About"</Expected_result>
+  <Actual_resultat>The page not open</Actual_result>
+  <Attachment>http://.......</Attachment>
+</body_bag>
